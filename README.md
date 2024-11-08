@@ -1,0 +1,2 @@
+# RightsQuest
+Project for NITSHACKS
